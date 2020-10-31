@@ -1,4 +1,4 @@
-# New Features (implemented on Windows 10 scaled cards 12 card version only)
+# New Features (implemented on Windows 10 scaled cards)
 Increased speed of script using generic optimizations here (https://www.autohotkey.com/boards/viewtopic.php?t=6413)
 
 New commands:
