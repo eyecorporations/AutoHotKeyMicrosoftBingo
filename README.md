@@ -1,3 +1,11 @@
+# New Features (implemented on Windows 10 scaled cards 12 card version only)
+Increased speed of script using generic optimizations here (https://www.autohotkey.com/boards/viewtopic.php?t=6413)
+
+New commands:
+
+CTRL+R auto-clicks bingo buttons
+CTRL+A auto-daubs then auto-clicks bingo buttons
+
 # AutoHotKey Microsoft Bingo Scripts
 Inspired by KinectKid333's script he posted at TrueAchievements (http://www.trueachievements.com/forum/viewthread.aspx?tid=732469) I went a step further and enhanced the script.
 
